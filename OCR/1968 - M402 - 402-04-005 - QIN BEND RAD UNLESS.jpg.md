@@ -20,7 +20,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Closed boxes:** 42
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS (traced).json](../MECHANICAL/1968%20-%20M402%20-%20402-04-005%20-%20QIN%20BEND%20RAD%20UNLESS%20(traced).json) (the CAD file: `1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS (traced).json](../MECHANICAL/1968%20-%20M402%20-%20402-04-005%20-%20QIN%20BEND%20RAD%20UNLESS%20%28traced%29.json) (the CAD file: `1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS (traced).dxf`).
 
 ## Full text
 

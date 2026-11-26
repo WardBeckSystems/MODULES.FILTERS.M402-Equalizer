@@ -27,7 +27,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Title block:** (180, 36)–(375, 85) mm: DRN C.$ OCONNELL · FINISH · WARD · BECK · DATE AUG 68 · M402 & 404 · MATERIAL · CHKD · PLUG · SCALE · FRZI · TOLS · ANGLES · 402 -09 0oi
 - **Wiring (first pass):** 83 connected wire groups from 373 runs; labelled ends: 315 mm → CONNECTIONS, 402 -09, 0oi, PLUG; 82 mm → 60on, OUTPUT; 57 mm → FRZI; 40 mm → +48V; 39 mm → COM
 
-Every curve, box, word and wire group: [1968 - M402 - 402-09-001 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20402-09-001%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M402 - 402-09-001 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402 - 402-09-001 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20402-09-001%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M402 - 402-09-001 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

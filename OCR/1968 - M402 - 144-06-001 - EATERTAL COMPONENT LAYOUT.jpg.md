@@ -19,7 +19,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 8.7 @ (159.4, 188.4), r 7.7 @ (159.2, 188.2), r 7.6 @ (346.9, 220.5), r 6.1 @ (328.5, 220.4)
 - **Closed boxes:** 26
 
-Every curve, box, word and wire group: [1968 - M402 - 144-06-001 - EATERTAL COMPONENT LAYOUT (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20144-06-001%20-%20EATERTAL%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1968 - M402 - 144-06-001 - EATERTAL COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402 - 144-06-001 - EATERTAL COMPONENT LAYOUT (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20144-06-001%20-%20EATERTAL%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1968 - M402 - 144-06-001 - EATERTAL COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

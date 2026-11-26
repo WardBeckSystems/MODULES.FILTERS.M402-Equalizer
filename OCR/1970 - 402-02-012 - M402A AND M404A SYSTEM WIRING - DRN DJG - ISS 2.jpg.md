@@ -32,7 +32,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Closed boxes:** 25
 - **Wiring (first pass):** 54 connected wire groups from 397 runs
 
-Every curve, box, word and wire group: [1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20402-02-012%20-%20M402A%20AND%20M404A%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20402-02-012%20-%20M402A%20AND%20M404A%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2 (traced).dxf`).
 
 ## Full text
 

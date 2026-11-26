@@ -36,7 +36,7 @@ Mechanical drilling detail of an escutcheon plate with holes.
 - **Words (OCR):** 97 in 66 lines: DRILL TAP · 8-32 UNC · 500 DIA · AT 820 To,250 DIA · 4 Csk · HOLE · HOLES · 4.06 · 4.50 · 3.25 · 1.62 · 79
 - **Title block:** (130, 11)–(410, 55) mm: RZ · BECK _ SVSTENS LiD · WaRd · Finish VIBRATE · 325 Grit Drm · W,W H; · VAPOUR BLAST Top · EScUTcHEON · SURFACE ONLY · DATE · 15 Oct 71 · DRILLING · DETAIL · Chd
 
-Every curve, box, word and wire group: [1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json](../MECHANICAL/1971%20-%20402-03-003%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%207%20(traced).json) (the CAD file: `1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json](../MECHANICAL/1971%20-%20402-03-003%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).dxf`).
 
 ## Full text
 

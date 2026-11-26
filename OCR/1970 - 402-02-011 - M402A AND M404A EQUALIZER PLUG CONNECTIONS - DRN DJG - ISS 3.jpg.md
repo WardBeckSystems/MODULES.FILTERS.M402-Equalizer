@@ -32,7 +32,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Closed boxes:** 13
 - **Wiring (first pass):** 53 connected wire groups from 520 runs
 
-Every curve, box, word and wire group: [1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3 (traced).json](../PINOUTS/1970%20-%20402-02-011%20-%20M402A%20AND%20M404A%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20DJG%20-%20ISS%203%20(traced).json) (the CAD file: `1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3 (traced).json](../PINOUTS/1970%20-%20402-02-011%20-%20M402A%20AND%20M404A%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20DJG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3 (traced).dxf`).
 
 ## Full text
 

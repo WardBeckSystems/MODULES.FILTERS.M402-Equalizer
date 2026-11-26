@@ -22,7 +22,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 54 connected wire groups from 375 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [1968 - M402 - 402-02-012 - LPE MIN BEND RAD UNESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20402-02-012%20-%20LPE%20MIN%20BEND%20RAD%20UNESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M402 - 402-02-012 - LPE MIN BEND RAD UNESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402 - 402-02-012 - LPE MIN BEND RAD UNESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20402-02-012%20-%20LPE%20MIN%20BEND%20RAD%20UNESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M402 - 402-02-012 - LPE MIN BEND RAD UNESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

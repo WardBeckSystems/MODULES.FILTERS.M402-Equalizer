@@ -34,7 +34,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 56 connected wire groups from 428 runs, 5 dotted junctions
 
-Every curve, box, word and wire group: [1970 - 402-02-012 - M402A(B) & M404A SYSTEM WIRING - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20402-02-012%20-%20M402A(B)%20%26%20M404A%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%205%20(traced).json) (the CAD file: `1970 - 402-02-012 - M402A(B) & M404A SYSTEM WIRING - DRN DJG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 402-02-012 - M402A(B) & M404A SYSTEM WIRING - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20402-02-012%20-%20M402A%28B%29%20%26%20M404A%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1970 - 402-02-012 - M402A(B) & M404A SYSTEM WIRING - DRN DJG - ISS 5 (traced).dxf`).
 
 ## Full text
 

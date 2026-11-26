@@ -34,7 +34,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Words (OCR):** 3 in 3 lines: R-??7 · 88 ? ? · 48
 - **Wiring (first pass):** 92 connected wire groups from 516 runs; labelled ends: 102 mm → R-??7; 30 mm → 88 ? ?; 22 mm → R-??7; 16 mm → 88 ? ?; 13 mm → R-??7
 
-Every curve, box, word and wire group: [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4 (traced).json](../SCHEMATICS/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHL%20-%20ISS%204%20(traced).json) (the CAD file: `1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4 (traced).json](../SCHEMATICS/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHL%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4 (traced).dxf`).
 
 ## Full text
 

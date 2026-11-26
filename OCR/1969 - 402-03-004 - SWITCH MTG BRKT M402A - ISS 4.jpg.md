@@ -34,7 +34,7 @@ Mechanical drawing of an M402A switch mounting bracket, title block at bottom ri
 - **Words (OCR):** 74 in 61 lines: ISSUE · 5.75 · 256unC · 13 · HoLes Nou 4ofe · 3HOLES 32 DIA · DJG oc7 69 · 812 · 125 · 4.500 · 812 · 49 DIA
 - **Title block:** (182, 6)–(418, 265) mm: ISSUE · 256unC · 13 · HoLes Nou 4ofe · 3HOLES 32 DIA · DJG oc7 69 · 812 · 812 · HOLES · 32 DIA · 1.625 · (TYP) · 3/3 · NOTES · DIMENSIONS SYMMETRICAC ABoot · E"s · UNLESS STATED · 2-SGuNc (2EACH SIDE)
 
-Every curve, box, word and wire group: [1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4 (traced).json](../MECHANICAL/1969%20-%20402-03-004%20-%20SWITCH%20MTG%20BRKT%20M402A%20-%20ISS%204%20(traced).json) (the CAD file: `1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4 (traced).json](../MECHANICAL/1969%20-%20402-03-004%20-%20SWITCH%20MTG%20BRKT%20M402A%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4 (traced).dxf`).
 
 ## Full text
 

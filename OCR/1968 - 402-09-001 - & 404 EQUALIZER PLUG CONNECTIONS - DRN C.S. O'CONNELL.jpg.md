@@ -33,7 +33,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 108 connected wire groups from 574 runs, 4 dotted junctions
 
-Every curve, box, word and wire group: [1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL (traced).json](../PINOUTS/1968%20-%20402-09-001%20-%20%26%20404%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20C.S.%20O%27CONNELL%20(traced).json) (the CAD file: `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL (traced).json](../PINOUTS/1968%20-%20402-09-001%20-%20%26%20404%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20C.S.%20O%27CONNELL%20%28traced%29.json) (the CAD file: `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL (traced).dxf`).
 
 ## Full text
 

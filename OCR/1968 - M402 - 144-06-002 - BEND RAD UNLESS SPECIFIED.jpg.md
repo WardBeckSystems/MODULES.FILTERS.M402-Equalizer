@@ -20,7 +20,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Closed boxes:** 12
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1968 - M402 - 144-06-002 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20144-06-002%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M402 - 144-06-002 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M402 - 144-06-002 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M402%20-%20144-06-002%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M402 - 144-06-002 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

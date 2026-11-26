@@ -34,7 +34,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Words (OCR):** 5 in 5 lines: 33 · 40 · 83 · le · 26
 - **Wiring (first pass):** 98 connected wire groups from 574 runs; labelled ends: 45 mm → 83; 27 mm → 83; 20 mm → le; 12 mm → 83; 11 mm → 83
 
-Every curve, box, word and wire group: [1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2 (traced).json](../PINOUTS/1968%20-%20402-09-001%20-%20%26%20404%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%202%20(traced).json) (the CAD file: `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2 (traced).json](../PINOUTS/1968%20-%20402-09-001%20-%20%26%20404%20EQUALIZER%20PLUG%20CONNECTIONS%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [M402](../../../../PAGES/M402.md)
 - **Closed boxes:** 52
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1 (traced).json](../MECHANICAL/1971%20-%20402-04-005%20-%20M402B%20EQUALIZER%20MODULE%20LAYOUT%20-%20DRN%20PHL%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1 (traced).json](../MECHANICAL/1971%20-%20402-04-005%20-%20M402B%20EQUALIZER%20MODULE%20LAYOUT%20-%20DRN%20PHL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1 (traced).dxf`).
 
 ## Full text
 

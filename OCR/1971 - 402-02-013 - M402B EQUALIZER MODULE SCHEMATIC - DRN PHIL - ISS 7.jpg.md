@@ -36,7 +36,7 @@ Wide equalizer module schematic strip with title block at bottom right.
 - **Words (OCR):** 57 in 56 lines: M4028 · MAin output · COUPONENT LAYout |-(39.06-00i · OCHEHATC 42/39 · AuI Output · CoM · SAGND · 888 · Lea · 2izg · CRIOU · 330/6
 - **Wiring (first pass):** 59 connected wire groups from 491 runs, 2 dotted junctions; labelled ends: 980 mm → 330/6, CRD, CRIOU, LED; 100 mm → 2i22; 90 mm → Dp?; 81 mm → 842, EXS; 64 mm → CRIOU
 
-Every curve, box, word and wire group: [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7 (traced).json](../SCHEMATICS/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%207%20(traced).json) (the CAD file: `1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7 (traced).json](../SCHEMATICS/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7 (traced).dxf`).
 
 ## Full text
 
