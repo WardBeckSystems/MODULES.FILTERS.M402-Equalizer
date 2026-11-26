@@ -1,0 +1,90 @@
+{
+ "index": 1,
+ "code": "M402",
+ "title": "M402 Stepped Equalizer",
+ "category": "Equalizers",
+ "description": "Stepped inductor-based console EQ with Daven fluted knobs and 60 Hz hum notch",
+ "circuitSummary": "Discrete multi-tap toroid inductors with polystyrene capacitors switched via Daven collet rotary steps. Includes switchable 60 Hz twin-T active notch.",
+ "nodes": [
+  {
+   "id": "in",
+   "label": "Balanced In",
+   "type": "input",
+   "x": 50,
+   "y": 80
+  },
+  {
+   "id": "notch",
+   "label": "60Hz Twin-T",
+   "type": "filter",
+   "x": 170,
+   "y": 80
+  },
+  {
+   "id": "lf",
+   "label": "LF Inductor Tank",
+   "type": "inductor",
+   "x": 300,
+   "y": 80
+  },
+  {
+   "id": "mf",
+   "label": "MF Inductor Tank",
+   "type": "inductor",
+   "x": 450,
+   "y": 80
+  },
+  {
+   "id": "hf",
+   "label": "HF Inductor Tank",
+   "type": "inductor",
+   "x": 590,
+   "y": 80
+  },
+  {
+   "id": "out",
+   "label": "Balanced Out",
+   "type": "output",
+   "x": 710,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "from": "in",
+   "to": "notch"
+  },
+  {
+   "from": "notch",
+   "to": "lf"
+  },
+  {
+   "from": "lf",
+   "to": "mf"
+  },
+  {
+   "from": "mf",
+   "to": "hf"
+  },
+  {
+   "from": "hf",
+   "to": "out"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m402_stepped_eq",
+  "name": "Ward-Beck M402 Stepped Equalizer",
+  "strings": [
+   "ca.wbsps.m402_stepped_eq",
+   "Ward-Beck M402 Stepped Equalizer",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Stepped inductor-based console equalizer with Daven fluted knobs and hum notch"
+  ]
+ },
+ "suite_index": 1,
+ "source": "2030.env/vst/M402_Stepped_EQ"
+}
