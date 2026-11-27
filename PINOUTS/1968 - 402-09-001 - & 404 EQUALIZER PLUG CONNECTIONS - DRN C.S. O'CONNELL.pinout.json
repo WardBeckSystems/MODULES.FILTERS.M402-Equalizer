@@ -1,0 +1,280 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL.jpg",
+  "module": "M402",
+  "applies_to": [
+    "M402",
+    "M404"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "B 402-09-001",
+    "title": "M402 & 404 EQUALIZER PLUG CONNECTIONS",
+    "date": "1968-08",
+    "issue": null,
+    "drawn": "C.S. O'CONNELL"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "connector",
+      "contacts": 15,
+      "rows": "A-R lettered, 3 rows (A D H L P / B E J M / C F K N R)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "600Ω INPUT / 150Ω INPUT",
+      "signal": "INPUT A",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "600Ω INPUT / 150Ω INPUT",
+      "signal": "INPUT B",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "600: link D-F; 150: link A-D",
+      "signal": "INPUT STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "600: link D-F; 150: link C-F",
+      "signal": "INPUT STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "input cable shield",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "+48V",
+      "signal": "+48 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "600Ω OUTPUT",
+      "signal": "OUTPUT A",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "600Ω OUTPUT",
+      "signal": "OUTPUT B",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "to common of external insert switch pole 1 (normally linked B-E)",
+      "signal": "EQ INSERT SEND",
+      "kind": "insert_send",
+      "port": "EQ SEND",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "to IN contact of switch pole 1 (normally linked B-E)",
+      "signal": "EQ INSERT IN",
+      "kind": "insert_return",
+      "port": "EQ SEND RETURN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "to IN contact of switch pole 2 (normally linked J-M)",
+      "signal": "EQ INSERT OUT",
+      "kind": "insert_send",
+      "port": "EQ RETURN SEND",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "to common of switch pole 2 (normally linked J-M)",
+      "signal": "EQ INSERT RETURN",
+      "kind": "insert_return",
+      "port": "EQ RETURN",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-A",
+        "-": "P1-C",
+        "shield": "P1-L"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-P",
+        "-": "P1-R"
+      }
+    },
+    {
+      "name": "EQ SEND",
+      "dir": "insert_send",
+      "pins": {
+        "+": "P1-B"
+      }
+    },
+    {
+      "name": "EQ SEND RETURN",
+      "dir": "insert_return",
+      "pins": {
+        "+": "P1-E"
+      }
+    },
+    {
+      "name": "EQ RETURN SEND",
+      "dir": "insert_send",
+      "pins": {
+        "+": "P1-J"
+      }
+    },
+    {
+      "name": "EQ RETURN",
+      "dir": "insert_return",
+      "pins": {
+        "+": "P1-M"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "EQ IN/OUT LOOP 1",
+      "send": "EQ SEND",
+      "return": "EQ SEND RETURN",
+      "normalled": true,
+      "note": "B-E strapped when no external switch; external switch IN connects B-E"
+    },
+    {
+      "name": "EQ IN/OUT LOOP 2",
+      "send": "EQ RETURN SEND",
+      "return": "EQ RETURN",
+      "normalled": true,
+      "note": "J-M strapped when no external switch; external switch IN connects J-M; switch OUT ties B to M (bypass)"
+    }
+  ],
+  "straps": [
+    {
+      "name": "600Ω INPUT",
+      "pins": [
+        "P1-D",
+        "P1-F"
+      ],
+      "note": "600Ω input wiring"
+    },
+    {
+      "name": "150Ω INPUT",
+      "pins": [
+        "P1-A",
+        "P1-D"
+      ],
+      "note": "NOTE 1: FOR 150Ω INPUT CONNECT 'A TO D', 'C TO F', REMOVE 'F TO D'"
+    },
+    {
+      "name": "150Ω INPUT",
+      "pins": [
+        "P1-C",
+        "P1-F"
+      ],
+      "note": "NOTE 1"
+    },
+    {
+      "name": "EQ NORMAL",
+      "pins": [
+        "P1-B",
+        "P1-E"
+      ],
+      "note": "drawn on the 150Ω connector (no external switch)"
+    },
+    {
+      "name": "EQ NORMAL",
+      "pins": [
+        "P1-J",
+        "P1-M"
+      ],
+      "note": "drawn on the 150Ω connector (no external switch)"
+    }
+  ],
+  "unread": [
+    "Issue number cut off at the page edge (title block partly off-scan)",
+    "View direction (front/rear) not stated"
+  ],
+  "confidence": "medium",
+  "notes": "Two views of the same 15-contact connector (A-R, no G/I/O/Q): 600Ω input with OPTIONAL EXTERNAL INSERT SWITCH (DPDT, OUT/IN) and 150Ω input with no switch (B-E and J-M linked). NOTE 2: WHEN USING EXTERNAL SWITCH FACILITY, INTERNAL SWITCH 'SW6' MUST BE TURNED TO 'IN' POSITION. The B/E/J/M group is an EQ in/out switching loop: switch OUT ties B to M, bypassing E..J. Recorded as two normalled insert pairs; which of B/M is the source and which the destination is inferred, not labelled. Input/output polarity not marked. Duplicate scan, page rotated 180°."
+}

@@ -1,0 +1,310 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3.jpg",
+  "module": "M402A",
+  "applies_to": [
+    "M402A",
+    "M404A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "B 402-02-011",
+    "title": "M402A AND M404A EQUALIZER PLUG CONNECTIONS",
+    "date": "1970-01",
+    "issue": "3",
+    "drawn": "DJG"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "PAD IN",
+      "signal": "PAD IN A",
+      "kind": "insert_send",
+      "port": "PAD IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "PAD IN",
+      "signal": "PAD IN B",
+      "kind": "insert_send",
+      "port": "PAD IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "PAD OUT",
+      "signal": "PAD OUT A",
+      "kind": "insert_return",
+      "port": "PAD OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "PAD OUT",
+      "signal": "PAD OUT B",
+      "kind": "insert_return",
+      "port": "PAD OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "(M404A) TRANSFORMER INPUT",
+      "signal": "TRANSFORMER INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "(M404A) TRANSFORMER INPUT; strapped 6-7",
+      "signal": "TRANSFORMER INPUT STRAP",
+      "kind": "strap",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "(M404A) TRANSFORMER INPUT; strapped 6-7",
+      "signal": "TRANSFORMER INPUT STRAP",
+      "kind": "strap",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "(M404A) TRANSFORMER INPUT",
+      "signal": "TRANSFORMER INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "INPUT SH",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1 A",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1 B",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2 A",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2 B",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "- GND",
+      "signal": "-GND / COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "CHASSIS GND (LAMP-)",
+      "signal": "CHASSIS GROUND / LAMP -",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "SEE NOTE (dashed strap to 22)",
+      "signal": "LAMP FEED STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "+48V",
+      "signal": "+48 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "PAD IN",
+      "dir": "insert_send",
+      "pins": {
+        "+": "P1-1",
+        "-": "P1-2"
+      }
+    },
+    {
+      "name": "PAD OUT",
+      "dir": "insert_return",
+      "pins": {
+        "+": "P1-3",
+        "-": "P1-4"
+      }
+    },
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-5",
+        "-": "P1-8",
+        "shield": "P1-9"
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "+": "P1-13",
+        "-": "P1-14"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "+": "P1-15",
+        "-": "P1-16"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "EXTERNAL PAD",
+      "send": "PAD IN",
+      "return": "PAD OUT",
+      "normalled": true,
+      "note": "SYSTEMS EXTERNAL PAD PROVISION. Dashed links 3-5 and 4-8 drawn (pad out to transformer input). Whether PAD IN 1-2 is driven by the module or is frame wiring from the system input is not shown; recorded as a send/return loop."
+    }
+  ],
+  "straps": [
+    {
+      "name": "600Ω",
+      "pins": [
+        "P1-6",
+        "P1-7"
+      ],
+      "note": "600Ω STRAP 6 TO ... (rest cut off; 6-7 drawn solid)"
+    },
+    {
+      "name": "150Ω",
+      "pins": [
+        "P1-5",
+        "P1-6"
+      ],
+      "note": "150Ω STRAP 5 TO ... AND 6 TO ... (cut off at page edge; pins guessed only as start points)"
+    },
+    {
+      "name": "PAD BYPASS",
+      "pins": [
+        "P1-3",
+        "P1-5"
+      ],
+      "note": "dashed"
+    },
+    {
+      "name": "PAD BYPASS",
+      "pins": [
+        "P1-4",
+        "P1-8"
+      ],
+      "note": "dashed"
+    },
+    {
+      "name": "LAMP 48V",
+      "pins": [
+        "P1-21",
+        "P1-22"
+      ],
+      "note": "NOTE: STRAP 21 TO 22 FOR 48V FEED TO 24V LAMP"
+    }
+  ],
+  "unread": [
+    "Strap notes for 600Ω/150Ω input cut off at the right page edge ('600Ω STRAP 6 TO …', '150Ω STRAP 5 TO … AND 6 TO …')",
+    "Pins 10, 11, 12, 17 drawn blank",
+    "Function of pin 21 beyond the lamp strap not stated"
+  ],
+  "confidence": "medium",
+  "notes": "Single-row 22-pin connector. Outputs: '(SYSTEMS OUTPUT EXTERNAL 6dB ISOLATION PAD REQUIRED.)' bracketed by outputs #1 and #2. Pin 19 CHASSIS GND also marked LAMP-. Polarity not marked; + assigned to the lower-numbered pin of each pair."
+}
