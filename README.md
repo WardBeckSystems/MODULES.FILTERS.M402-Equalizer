@@ -13,6 +13,32 @@ Ward-Beck Systems M402, 1968|1. Wiki page: [M402 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 48 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [13 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1968 - M402 - P3.jpg](MANUALS/1968%20-%20M402%20-%20P3.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Matched gain** | 38db |
+| **Frequency response** | to.bdb from 2Ohz to 2OKhz (effects controls at zero position) EQUIVALENT INPUT NOISE -115dbm (1Ohz to 1OOKhz bandwidth) |
+| **Harmonic distortion** | Less than 0.5% from 3Ohz to 2OKhz (Measured at +18dbm output level) |
+| **Source impedance** | ohms balanced or unbalanced |
+| **Input impedance** | ohms +10% |
+| **Input level** | -38db nominal, ~2Odb maximum |
+| **Load impedance** | hms |
+| **Output impedance** | ohms (150 ohms available) +10% |
+| **Output level** | +18dbm maximum |
+| **Phasing** | The low terminal number of the input pair and the low terminal number of the output pair are in phase. EQUALIZING CHARACTERISTICS In accordance with specified curves within # 0.Sdb |
+| **Power requirements** | volts dc, regulated from M848 or equivalent. 65mA |
+| **Ambient temperature** | to 60%c |
+| **Dimensions** | 1.58W X 6.6251X 6D (depth below panel) inches WEIGHT: 12 lbs Net |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

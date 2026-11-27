@@ -1,0 +1,143 @@
+{
+ "module": "M402",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1968 - M402 - P3.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.88,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Matched gain",
+   "key": "matched_gain",
+   "text": "38db",
+   "quantities": [
+    {
+     "value": 38,
+     "unit": "db"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "to.bdb from 2Ohz to 2OKhz (effects controls at zero position) EQUIVALENT INPUT NOISE -115dbm (1Ohz to 1OOKhz bandwidth)",
+   "quantities": [
+    {
+     "value": -115,
+     "unit": "dbm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.5% from 3Ohz to 2OKhz (Measured at +18dbm output level)",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 18,
+     "unit": "dbm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "ohms balanced or unbalanced"
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "ohms +10%",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-38db nominal, ~2Odb maximum",
+   "quantities": [
+    {
+     "value": -38,
+     "unit": "db"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "hms"
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "ohms (150 ohms available) +10%",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    },
+    {
+     "value": 10,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+18dbm maximum",
+   "quantities": [
+    {
+     "value": 18,
+     "unit": "dbm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number of the input pair and the low terminal number of the output pair are in phase. EQUALIZING CHARACTERISTICS In accordance with specified curves within # 0.Sdb"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "volts dc, regulated from M848 or equivalent. 65mA",
+   "quantities": [
+    {
+     "value": 65,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60%c"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.58W X 6.6251X 6D (depth below panel) inches WEIGHT: 12 lbs Net",
+   "quantities": [
+    {
+     "value": 1.58,
+     "unit": "W"
+    },
+    {
+     "value": 12,
+     "unit": "lbs"
+    }
+   ]
+  }
+ ]
+}
