@@ -4,13 +4,13 @@ Ward-Beck Systems M402, 1968|1. Wiki page: [M402 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 42 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 18 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 29 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 19 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 17 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 28 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 48 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -55,7 +55,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY2todWpjS0RBeDg/view?resourcekey=0-9sm3uCq3qtU2EfXmzdOxDA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY2todWpjS0RBeDg&resourcekey=0-9sm3uCq3qtU2EfXmzdOxDA" width="240" alt="1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS.jpg"></a><br><sub>1968|1 · 402-04-005 - QIN BEND RAD UNLESS · <a href="MECHANICAL/1968%20-%20M402%20-%20402-04-005%20-%20QIN%20BEND%20RAD%20UNLESS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4.jpg`, `1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7.jpg`, `1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1.jpg`
+## 3-D model
+
+[`MECHANICAL/M402.stl`](MECHANICAL/M402.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M402)
+
+- **Size:** 52.68 × 185.46 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 5 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M402 - front panel.svg`)
+- the drawn panel is 0.24 wide to high, the size 0.28: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M402.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -67,13 +74,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNmx6XzNUR0hLaFk/view?resourcekey=0-agia0saIgC8Xea4Kbniy7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNmx6XzNUR0hLaFk&resourcekey=0-agia0saIgC8Xea4Kbniy7g" width="240" alt="1968 - M402 - B 1-139-02-001 - M402B - EQUALIZER MODULE - PCB SCHEMATIC.gif"></a><br><sub>1968|1 · B 1-139-02-001 - M402B - EQUALIZER MODULE - PCB SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1ustH1vIf6AUUoqD5XPZHndNQFIPzxDFX/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1ustH1vIf6AUUoqD5XPZHndNQFIPzxDFX" width="240" alt="1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7.jpg"></a><br><sub>1971|4 · 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7 · <a href="SCHEMATICS/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%207%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2.jpg`, `1970 - 402-02-012 - M402A(B) & M404A SYSTEM WIRING - DRN DJG - ISS 5.jpg`, `1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2.jpg`, `1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL.jpg`, `1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3.jpg`
 
 ## RTO-144 pinout
 
@@ -138,12 +141,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHIL - ISS 7.kicad_sch](KICAD/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%207.kicad_sch)
 - [1971 - 402-02-013 - M402B EQUALIZER MODULE SCHEMATIC - DRN PHL - ISS 4.kicad_sch](KICAD/1971%20-%20402-02-013%20-%20M402B%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20PHL%20-%20ISS%204.kicad_sch)
 - [M402.kicad_sym](KICAD/M402.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
