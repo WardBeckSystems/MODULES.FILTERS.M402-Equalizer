@@ -1,5 +1,5 @@
 # 1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

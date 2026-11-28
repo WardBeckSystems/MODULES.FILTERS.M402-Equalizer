@@ -1,5 +1,5 @@
 # 1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1969 (title block date)

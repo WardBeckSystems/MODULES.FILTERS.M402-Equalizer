@@ -1,5 +1,5 @@
 # 1970 - 402-02-012 - M402A AND M404A SYSTEM WIRING - DRN DJG - ISS 2.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1970 (title block date)

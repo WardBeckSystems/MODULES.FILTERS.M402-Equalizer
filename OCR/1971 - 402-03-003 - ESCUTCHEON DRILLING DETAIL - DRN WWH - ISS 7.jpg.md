@@ -1,5 +1,5 @@
 # 1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1971 (title block date)

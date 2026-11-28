@@ -1,5 +1,5 @@
 # 1968 - M402 - 402-09-001 - BEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1968 (found in this file: "DATE AUg 68")

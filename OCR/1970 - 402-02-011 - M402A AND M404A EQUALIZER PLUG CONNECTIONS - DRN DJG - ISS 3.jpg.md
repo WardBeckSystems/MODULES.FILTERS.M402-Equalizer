@@ -1,5 +1,5 @@
 # 1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1970 (title block date)

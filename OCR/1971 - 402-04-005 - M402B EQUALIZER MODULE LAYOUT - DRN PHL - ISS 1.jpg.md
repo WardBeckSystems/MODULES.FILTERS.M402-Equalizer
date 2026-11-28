@@ -1,5 +1,5 @@
 # 1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1971 (title block date)

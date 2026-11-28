@@ -1,5 +1,5 @@
 # 1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1968 (title block date)

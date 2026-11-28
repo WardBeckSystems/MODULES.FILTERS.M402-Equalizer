@@ -1,5 +1,5 @@
 # 1968 - M402 - 144-06-002 - BEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

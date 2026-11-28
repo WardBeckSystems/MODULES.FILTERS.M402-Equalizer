@@ -1,5 +1,5 @@
 # 1968 - M402 - B 1-139-02-001 - M402B - EQUALIZER MODULE - PCB SCHEMATIC.gif
-Wiki page: [M402](../../../../PAGES/M402.md)
+Wiki page: [M402](../)
 
 
 - **Year:** 1968 (module estimate (labelled))
